@@ -2,11 +2,11 @@
 int numberB = Convert.ToInt16(Console.ReadLine());
 if(numberA > numberB)
 {
-    Console.WriteLine("MAX");
+    Console.WriteLine("Ваше число MAX");
 }
 else
 {
-    Console.WriteLine("MIN");
+    Console.WriteLine("Ваше число MIN");
 }
 
 
