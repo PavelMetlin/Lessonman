@@ -5,8 +5,9 @@ if(numberA > numberB)
     Console.WriteLine("MAX");
 }
 else
-
 {
     Console.WriteLine("MIN");
 }
+
+
 
